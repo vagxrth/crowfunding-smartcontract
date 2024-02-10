@@ -21,7 +21,7 @@ A seamless and secure platform where you can now participate in crowdfunding cam
 
 ## Deploying Contracts
 
-When you're ready to deploy your contracts, just run one of the following command to deploy you're contracts:
+When you're ready to deploy your contracts, just run the following command to deploy your contract:
 
 ```bash
 npm run deploy
@@ -29,10 +29,11 @@ npm run deploy
 
 ## Releasing Contracts
 
-If you want to release a version of your contracts publicly, you can use one of the followings command:
+If you want to release a version of your contracts publicly, you can use the following command:
 
 ```bash
 npm run release
 ```
 
 ## Image
+<img width="1470" alt="Screenshot 2024-02-10 at 20 46 11" src="https://github.com/vagxrth/crowfunding-smartcontract/assets/83217083/151f2470-2a48-43ce-9acd-7be88e83dfe7">
