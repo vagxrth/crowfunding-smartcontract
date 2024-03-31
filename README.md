@@ -14,7 +14,7 @@ A seamless and secure platform where you can now participate in crowdfunding cam
 - TailwindCSS
 - Vite
 - Solidity
-- Thirdweb
+- ThirdWeb
 
 
 ## Features
