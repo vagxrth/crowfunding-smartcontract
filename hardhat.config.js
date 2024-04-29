@@ -5,11 +5,11 @@ module.exports = {
   zksolc: {
     version: "1.3.9",
     compilerSource: "binary",
-    defaultNetwork: 'mumbai',
+    defaultNetwork: 'sepolia',
     networks: {
       hardhat: {},
-      mumbai: {
-        url: 'https://rpc.ankr.com/polygon_mumbai',
+      sepolia: {
+        url: 'https://eth-sepolia.g.alchemy.com/v2/k49FaNH-b-zx3GCTth4BNXD_2CK7kxSU',
         accounts: [`0x${process.env.PRIVATE_KEY}`]
       }
     },
