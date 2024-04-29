@@ -23,4 +23,5 @@ A seamless and secure platform where you can now participate in crowdfunding cam
 
 
 ## Image
-<img width="1470" alt="Screenshot 2024-02-10 at 20 46 11" src="https://github.com/vagxrth/crowfunding-smartcontract/assets/83217083/151f2470-2a48-43ce-9acd-7be88e83dfe7">
+<img width="1212" alt="Deployed Contract" src="https://github.com/vagxrth/etherus-smartcontract/assets/83217083/5de58c49-789b-44e4-add5-fa8e562b843f">
+
